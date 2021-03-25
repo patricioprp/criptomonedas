@@ -12,7 +12,7 @@ const useMoneda = () => {
         </select>
     </Fragment>
    );
-   //Retornar state, interfaz y fn que modifica el state
+   //Retornar state, interfaz y fn que modifica el state test
    return [state,Seleccionar,actualziarState]
 }
 export default useMoneda;
